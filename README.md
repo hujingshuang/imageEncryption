@@ -9,9 +9,8 @@
 ## About
 
 ##### **`Copyright (c) 2016 Jingshuang Hu`**
-
->> **Date : 2016.05.20**
->> **Author : Jingshuang Hu**
->> **E-mail : jingshuang_hu@163.com**
->> **Blog : [http://blog.csdn.net/hujingshuang](http://blog.csdn.net/hujingshuang)**
->> **GitHub : [https://github.com/hujingshuang](https://github.com/hujingshuang)**
+* **`Date:`2016.05.20`**
+* **`Author:`Jingshuang Hu**
+* **`E-mail:`jingshuang_hu@163.com**
+* **`Blog:`[http://blog.csdn.net/hujingshuang](http://blog.csdn.net/hujingshuang)**
+* **`GitHub:`[https://github.com/hujingshuang](https://github.com/hujingshuang)**
