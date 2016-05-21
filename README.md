@@ -7,9 +7,11 @@
 * **Safety analysis includes the image histogram, key sensitivity and correlation between adjacent pixels.**
 
 ## About
-* **date : 2016.05.20**
-* **author : Jingshuang Hu**
-* **e-mail : jingshuang_hu@163.com**
-* **blog : [http://blog.csdn.net/hujingshuang](http://blog.csdn.net/hujingshuang)**
-* **github : [https://github.com/hujingshuang](https://github.com/hujingshuang)**
-* **Copyright (c) 2016 Jingshuang Hu**
+```
+##### **`Copyright (c) 2016 Jingshuang Hu`**
+>> **Date : 2016.05.20**
+>> **Author : Jingshuang Hu**
+>> **E-mail : jingshuang_hu@163.com**
+>> **Blog : [http://blog.csdn.net/hujingshuang](http://blog.csdn.net/hujingshuang)**
+>> **GitHub : [https://github.com/hujingshuang](https://github.com/hujingshuang)**
+```
