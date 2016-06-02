@@ -5,4 +5,3 @@
 6.line six
 7.line seven
 8.line eight
-9.line nine
