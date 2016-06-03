@@ -1,9 +1,0 @@
-2.line two
-3.line three
-4.line four
-6.line six
-<<<<<<< HEAD
-8.line eight
-=======
-7.line seven
->>>>>>> master
