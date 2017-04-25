@@ -1,6 +1,7 @@
 ## Introduction
 
-####This is a matlab image encryption software
+#### This is a matlab image encryption software
+
 * **The following figure is part of the software screenshot, you can encrypt the image by operating software.**
 ![](https://raw.githubusercontent.com/hujingshuang/imageEncryption/master/software%20interface.jpg)
 * **Image encryption by generating Halton sequences. There are location scrambling and pixel scrambling.**
